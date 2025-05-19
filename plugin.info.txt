@@ -1,7 +1,7 @@
 base dtable
 author Szymon Olewniczak
-email dokuwiki@imz.re
-date 2016-01-22
+email solewniczak@rid.pl
+date 2021-03-28
 name dtable
-desc This plugin may change your boring dokuwiki tables to dynamic tables that can be managed using simle GUI.
+desc Edit wiki tables directly on the page, using contextmenu.
 url http://www.dokuwiki.org/plugin:dtable
